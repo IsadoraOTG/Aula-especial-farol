@@ -3,5 +3,6 @@ Com professor Halisson
 ## Aula de python
 Para a tchurminha da programação
 ### Com ajuda do prof Nelson
-#### titulo mais petititinho
-##### titulo mais pitititinho de todos
+#### aula de git 
+Aprende ai nega como que usa o git
+##### Salva esse git direito menina!
